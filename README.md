@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sof01C
 - 👀 I’m interested in sports and music. 
 - 🌱 I’m currently learning how to use github with no prior experience with coding. 
-- 💞️ I’m looking to collaborate on an attack infrastructure. (To be used for good and educational purposes only) 
+- 💞️ I’m looking to collaborate on anything.  
 - 📫 How to reach me... My snap is sofia.creix
 
 <!---
